@@ -11,11 +11,11 @@
 Add to your composer.json repository:
 ```
 "repositories": [
-    {
-        "type": "git",
-        "url": "https://gitlab.appus.software/web/metronic-admin"
-    }
-],
+        {
+            "type": "git",
+            "url": "https://gitlab.com/singhk-amit/Adminn"
+        }
+    ],
 ```
 and add access to the private repository to the configuration:
 ```
